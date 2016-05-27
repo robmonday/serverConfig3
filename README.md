@@ -40,6 +40,7 @@ Complete URL to your hosted web application is...
 ##List of any 3rd-Party Resources Used to Complete Project
 - http://www.2daygeek.com/how-to-change-the-ssh-port-number/#
 - http://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt
+- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 
 ##Other Helpful Links
 <a href="https://www.udacity.com/account#!/development_environment" target="_blank">Link to Development Environment</a>
