@@ -4,12 +4,12 @@ This project is part of the Udacity Fullstack Nanodegree
 
 ##Required Components
 
-IP address: 52.33.143.150 and 
-SSH port: [I'm not sure where to find this]
+IP address: 52.33.143.150 
+SSH port: 2200
 
 Complete URL to your hosted web application is...
 - Currently http://52.33.143.150/index.html but this will change
-- Amazon EC2 Instance's public URL: http://ec2-XX-XX-XXX-XXX.us-west-2.compute.amazonaws.com/ where the X's are replaced with instance's IP address. Can use this url when configuring third party authentication. 
+- Amazon EC2 Instance's public URL: http://ec2-52-33-143-150.us-west-2.compute.amazonaws.com/ ...can use this url when configuring third party authentication. 
 
 ##Summary of Software Installed and Configuration Changes Made
 
@@ -42,4 +42,4 @@ Complete URL to your hosted web application is...
 - http://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt
 
 ##Other Helpful Links
-<a href="https://www.udacity.com/account#!/development_environment">Link to Development Environment</a>
+<a href="https://www.udacity.com/account#!/development_environment" target="_blank">Link to Development Environment</a>
