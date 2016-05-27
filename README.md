@@ -7,9 +7,11 @@ This project is part of the Udacity Fullstack Nanodegree
 IP address: 52.33.143.150 and 
 SSH port: [I'm not sure where to find this]
 
-Complete URL to your hosted web application is...currently 52.33.143.150/index.html but this will change
+Complete URL to your hosted web application is...
+- Currently http://52.33.143.150/index.html but this will change
+- Amazon EC2 Instance's public URL: http://ec2-XX-XX-XXX-XXX.us-west-2.compute.amazonaws.com/ where the X's are replaced with instance's IP address. Can use this url when configuring third party authentication. 
 
-Summary of Software Installed and Configuration Changes Made
+##Summary of Software Installed and Configuration Changes Made
 
 1. Created VM with Udacity account, SSH into server
 
@@ -35,6 +37,9 @@ Summary of Software Installed and Configuration Changes Made
 
 1. 
 
-List of any 3rd-Party Resources Used to Complete Project
+##List of any 3rd-Party Resources Used to Complete Project
 - http://www.2daygeek.com/how-to-change-the-ssh-port-number/#
 - http://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt
+
+##Other Helpful Links
+<a href="https://www.udacity.com/account#!/development_environment">Link to Development Environment</a>
