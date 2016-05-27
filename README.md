@@ -43,4 +43,5 @@ Complete URL to your hosted web application is...
 
 ##Other Helpful Links
 <a href="https://www.udacity.com/account#!/development_environment" target="_blank">Link to Development Environment</a>
+<br>
 <a href="https://docs.google.com/document/d/1J0gpbuSlcFa2IQScrTIqI6o3dice-9T7v8EDNjJDfUI/pub?embedded=true" target="_blank">Getting Started Guide</a>
