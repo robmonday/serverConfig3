@@ -10,6 +10,7 @@ SSH port: [I'm not sure where to find this]
 Complete URL to your hosted web application is...currently 52.33.143.150/index.html but this will change
 
 Summary of Software Installed and Configuration Changes Made
+
 1. Created VM with Udacity account, SSH into server
 1. Created new user named grader ("sudo adduser grader") and gave permission to sudo ("/etc/sudoers.d", "touch grader", "touch nano", added "grader ALL=(ALL) NOPASSWD:ALL" code using editor)
 1. Updated all currently installed packages ("apt-get update", "apt-get upgrade")
