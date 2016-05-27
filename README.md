@@ -8,8 +8,8 @@ IP address: 52.33.143.150
 SSH port: 2200
 
 Complete URL to your hosted web application is...
-- Currently http://52.33.143.150/index.html but this will change
 - Amazon EC2 Instance's public URL: http://ec2-52-33-143-150.us-west-2.compute.amazonaws.com/ ...can use this url when configuring third party authentication. 
+- http://52.33.143.150/index.html currently works too
 
 ##Summary of Software Installed and Configuration Changes Made
 
