@@ -23,7 +23,7 @@ Summary of Software Installed and Configuration Changes Made
 
 1. Configured the local timezone to UTC ("dpkg-reconfigure tzdata", selected etc/UTC using menu)
 
-1. Installed and configured Apache to serve a Python mod_wsgi application ("apt-get install apache2", "apt-get install libapache2-mod-wsgi")
+1. Installed and configured Apache to serve a Python mod_wsgi application ("apt-get install apache2", "apt-get install libapache2-mod-wsgi").  Visted 52.33.143.150/index.html to confirm install worked properly.
 
 1. How to install and configure PostgreSQL???
 
@@ -33,7 +33,7 @@ Summary of Software Installed and Configuration Changes Made
 
 1. How to install git, clone and setup Catalog App project (from GitHub repository from earlier in the Nanodegree program) so that it functions correctly when visiting server’s IP address in a browser. 
 
-1. Visted 52.33.143.150/index.html to confirm working properly
+1. 
 
 List of any 3rd-Party Resources Used to Complete Project
 - http://www.2daygeek.com/how-to-change-the-ssh-port-number/#
